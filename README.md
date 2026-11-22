@@ -2,7 +2,7 @@
 
 Before tuning PID on the real motors of the **uOttawa Mars Rover Team's robotic arm**, I wrote a fake motor in **Python** and **C++** to see how PID control actually behaves.
 
-**Try it live:** interactive version with sliders and graphs on my portfolio → [rayan-rehou.netlify.app](https://rayan-rehou.netlify.app)
+**Try it live:** interactive version with sliders and graphs on my portfolio → [rayan-rehou.github.io](https://rayan-rehou.github.io)
 
 ## The model
 Like a toy car: pushing speeds it up, friction slows it down (more friction the faster it goes).
