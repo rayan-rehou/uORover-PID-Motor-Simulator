@@ -1,6 +1,6 @@
 # Joystick Motor Control (Jog Prototype)
 
-An ESP32 reads a joystick and drives a 28BYJ-48 stepper motor through a ULN2003 driver. The motor turns faster the further you push, stops when you let go, tracks its angle, stops at ±180° and sets zero with a click of the stick. I built it to practise jog control for the uORover arm's joints.
+An ESP32 reads a joystick and drives a 28BYJ-48 stepper motor through a ULN2003 driver. The motor turns faster the further you push, stops when you let go, tracks its angle, stops at ±180° and sets zero with a click of the stick. I built it to learn how the uORover arm's joints are jogged.
 
 **Watch the demo, then try the simulation with a live Serial Monitor:** [rayan-rehou.github.io/#jogctl](https://rayan-rehou.github.io/#jogctl)
 
