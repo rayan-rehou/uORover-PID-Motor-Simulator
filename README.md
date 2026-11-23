@@ -4,7 +4,7 @@ My work, tests and prototypes for the **uOttawa Mars Rover Team (uORover)**. I'm
 
 | Project | What it does | Demo |
 |---|---|---|
-| [PID Motor Simulator](pid-motor-simulator/) | A fake motor in Python and C++ to see how P and I gains change speed control: steady-state error, overshoot and settling time | [Try it](https://rayan-rehou.github.io/#pidsim) |
+| [uORover Arm PID Motor Simulator](pid-motor-simulator/) | A fake motor in Python and C++ to see how P and I gains change speed control: steady-state error, overshoot and settling time | [Try it](https://rayan-rehou.github.io/#pidsim) |
 | [Joystick Motor Control (Jog Prototype)](joystick-motor-control/) | An ESP32 and a joystick drive a stepper motor: dead zone, faster the further you push, angle tracking, ±180° limits and click to zero | [Watch and try it](https://rayan-rehou.github.io/#jogctl) |
 
 ## What I practiced
