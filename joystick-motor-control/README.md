@@ -59,3 +59,4 @@ Everything is on the left side of the ESP32. The joystick is powered from GPIO 1
 ## Files
 
 - [`Joystick_Motor_Control.ino`](Joystick_Motor_Control.ino): the full program (C++, Arduino framework)
+- [`direction-test/Joystick_Direction_Test.ino`](direction-test/Joystick_Direction_Test.ino): my first test before connecting the motor. It prints LEFT, STOP or RIGHT to the Serial Monitor so I could check the joystick wiring and the dead zone.
