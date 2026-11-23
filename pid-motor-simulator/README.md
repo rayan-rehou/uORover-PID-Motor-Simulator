@@ -1,4 +1,4 @@
-# uORover PID Motor Simulator
+# uORover Arm PID Motor Simulator
 
 Before tuning PID on the real motors of the **uOttawa Mars Rover Team's robotic arm**, I wrote a fake motor in **Python** and **C++** to see how PID control actually behaves.
 
